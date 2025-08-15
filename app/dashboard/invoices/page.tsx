@@ -10,7 +10,7 @@ import { Metadata } from 'next';
  
 
 export const metadata: Metadata = {
-  title: 'Login',
+  title: 'Invoices',
 };
  
 export default async function Page(props: {
